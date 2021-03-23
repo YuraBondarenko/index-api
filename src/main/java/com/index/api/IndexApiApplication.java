@@ -8,5 +8,4 @@ public class IndexApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(IndexApiApplication.class, args);
     }
-
 }
